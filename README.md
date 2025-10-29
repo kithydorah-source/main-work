@@ -1,1 +1,16 @@
 # main-work
+these are my course work
+[first photo](banks.jpg)
+[second photo](cash.jpg)
+[third photo](cleaning.jpg)
+[contact us.html](index.html)
+[fourth photo](disinfecting.jpg)
+[fifth photo](favicon.png)
+[form.html](index.html)
+[happy.css](styles.css)
+[index.html](index.html)
+[sixth photo](money.jpg)
+[seventh photo](personalhygience.jpg)
+[sanitation.html](index.html)
+[styles.css](styles.css)
+[table.html](index.html)
