@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.love{
+    width: 100%;
+}
+.love .joy{
+    width: 80;
+    margin: auto;
+}
+.love .joy .header{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+.love .joy .header h2{
+    color: blueviolet;
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+}
+.love .joy .header p{
+    color:lawngreen ;
+    text-align: center;
+    line-height: 2.5;
+}
+.cleanliness{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.cleanliness .general{
+    flex: 1;
+    margin: 60px 20px;
+    overflow: auto;
+    border-radius: 25px;
+    background-color: aqua;
+}
+.cleanliness .general img{
+    width: 100%;
+    height: 250px;
+}
+.cleanliness .general .footera{
+    background-color: chocolate;
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+}
+.cleanliness .general .footerb{
+   background-color:lightskyblue ; 
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+}
+.cleanliness .general .footerc{
+    background-color: deeppink;
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+}
+@media screen and (max-width:768px) {
+    .cleanliness{
+        flex-direction: column;
+    }
+    
+}
